@@ -10,4 +10,10 @@ def calculate_product_or_sum(input_1, input_2):
     
     else:
         return input_1 + input_2
+    
+input_1 = int(input("Enter the first number: "))
+input_2 = int(input("Enter the second number: "))
+
+result = calculate_product_or_sum(input_1, input_2)
+print("Result:", result)
 
