@@ -1,5 +1,9 @@
 # Calculate the multiplication and sum of two numbers
+# Exercise 1
 
+# pseudocode
+
+# Create a start by indicating the calculate_product_or_sum
 def calculate_product_or_sum(input_1, input_2):
     # calculate the two input numbers
     product = input_1 * input_2
